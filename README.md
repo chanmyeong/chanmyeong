@@ -13,8 +13,9 @@ In December 2022, Github account management begins.
 
 ### 📫 How to reach me
 <a href="https://chanmyeong.tistory.com/"><img src="https://img.shields.io/badge/My Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://chanmyeong.tistory.com/"/></a>&nbsp;
-<a href="https://twitter.com/JavaBackDev/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/JavaBackDev/"/></a>&nbsp;
 <img src="https://img.shields.io/badge/chanmyeongwoo@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp;
+<!-- <a href="https://twitter.com/JavaBackDev/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/JavaBackDev/"/></a>&nbsp;
+ -->
 
 <!-- <img src="https://img.shields.io/badge/기술이름-#제외색상번호?style=for-the-badge&logo=아이콘이름&logoColor=white"> -->
 <!-- <a href="링크걸_주소"><img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white&link=내링크"/></a>&nbsp;
