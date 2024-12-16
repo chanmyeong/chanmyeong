@@ -6,7 +6,7 @@ In December 2022, Github account management begins.
 <img src="https://img.shields.io/badge/TypeScript-2F74C0?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp;
 
-### What I learned
+### 🌼 What I learned
 <img src="https://img.shields.io/badge/HTML-E96228?style=flat-square&logo=html&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS-146EB0?style=flat-square&logo=css&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
